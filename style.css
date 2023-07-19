@@ -45,4 +45,5 @@
     width: 50%;
     line-height: 8rem;
     letter-spacing: .2rem;
+    text-shadow: 0.3rem .5rem rgba(0, 0, 0, 0.8);
   }
