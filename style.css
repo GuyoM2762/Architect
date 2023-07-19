@@ -45,5 +45,11 @@
     width: 50%;
     line-height: 8rem;
     letter-spacing: .2rem;
-    text-shadow: 0.3rem .5rem rgba(0, 0, 0, 0.8);
+    text-shadow: 0.3rem .5rem rgba(0, 0, 0, 0.4);
+  }
+
+  .banner p{
+    font-family: 'josefin slab' serif;
+    font-size: 4rem;
+    color: #fff;
   }
