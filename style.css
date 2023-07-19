@@ -42,4 +42,7 @@
     font-size: 8rem;
     font-weight: 300;
     color: #fff;
+    width: 50%;
+    line-height: 8rem;
+    letter-spacing: .2rem;
   }
