@@ -169,6 +169,10 @@ html {
   justify-content: center;
 }
 
-.social-media{
+.social-media i {
   font-size: 2.2rem;
+  margin: 3rem;
+  width: 4.5rem;
+
+
 }
