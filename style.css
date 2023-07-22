@@ -24,6 +24,9 @@ html {
   cursor: pointer;
 
 }
+ .change .hamburger-menu{
+  right: 33rem;
+ }
 
 .line {
   width: 100%;
