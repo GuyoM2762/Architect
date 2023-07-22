@@ -133,3 +133,11 @@
     }
 
   }
+
+  .sidebar{
+    width: 40rem;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    right: 0;
+  }
