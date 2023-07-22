@@ -83,7 +83,7 @@
     line-height: 8rem;
     letter-spacing: .2rem;
     text-shadow: 0.3rem .5rem rgba(0, 0, 0, 0.4);
-    animation: moveBanner 1s .5s;
+    animation: moveBanner 1s .5s forwards;
     
   }
 
@@ -96,7 +96,7 @@
     margin-bottom: 3rem;
     text-shadow: 0.3rem .5rem rgba(0, 0, 0, 0.4);
     opacity: 0;
-    animation: moveBanner 1s .7s;
+    animation: moveBanner 1s .7s forwards;
 
   }
 
