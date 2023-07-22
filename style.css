@@ -70,6 +70,11 @@ html {
   letter-spacing: 0.1rem;
 }
 
+.hamburger-menu span::before{
+  content: "";
+  position: absolute;
+}
+
 
 
 
