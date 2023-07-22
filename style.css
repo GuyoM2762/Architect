@@ -41,6 +41,11 @@ html {
   background-color: rgba(0, 0, 0, 0.8);
 }
 
+.line-2{
+  opacity: 0;
+  visibility: hidden;
+}
+
 .line-1{
 transform: rotate(45deg) translate(0.3rem, 0.8rem);
 }
