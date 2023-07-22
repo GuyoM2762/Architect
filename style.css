@@ -25,9 +25,10 @@ html {
   transition: right 0.7s;
 
 }
- .change .hamburger-menu{
+
+.change .hamburger-menu {
   right: 33rem;
- }
+}
 
 .line {
   width: 100%;
@@ -37,30 +38,37 @@ html {
 
 }
 
-.change .line{
+.change .line {
   background-color: rgba(0, 0, 0, 0.8);
 }
 
-.change .line-1{
+.change .line-1 {
   transform: rotate(45deg) translate(0.3rem, 0.8rem);
-  }
+}
 
-.change .line-2{
+.change .line-2 {
   opacity: 0;
   visibility: hidden;
 }
 
-.change .line-3{
+.change .line-3 {
   transform: rotate(-45deg) translate(0.3rem, -0.8rem);
-  }
+}
 
-  .hamburger-menu span{
-    position: absolute;
-    left: 5rem;
-    width: 10rem;
-    height: 4rem;
-    background-color: #e2b646;
-  }
+.hamburger-menu span {
+  position: absolute;
+  left: 5rem;
+  width: 10rem;
+  height: 4rem;
+  background-color: #e2b646;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  font-family: 'Baloo Da 2', serif;
+  font-size: 1.6rem;
+  letter-spacing: 0.1rem;
+}
 
 
 
@@ -177,7 +185,7 @@ html {
   transition: right 0.5s;
 }
 
-.change .sidebar{
+.change .sidebar {
   right: 0;
 }
 
@@ -199,7 +207,7 @@ html {
   position: relative;
 }
 
-.menu-link::before{
+.menu-link::before {
   content: attr(data-content);
   position: absolute;
   top: 0;
@@ -211,11 +219,11 @@ html {
   transition: width .3s ease-in-out;
 }
 
-.menu-link:hover::before{
+.menu-link:hover::before {
   width: 100%;
 }
 
-.social-media{
+.social-media {
   position: absolute;
   bottom: 3rem;
   width: 100%;
@@ -240,6 +248,6 @@ html {
 
 }
 
-.social-media i:hover{
+.social-media i:hover {
   background-color: #c29525;
 }
