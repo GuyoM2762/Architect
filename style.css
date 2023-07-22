@@ -37,6 +37,7 @@
     height: 100vh;
     position: relative;
     perspective: 100rem;
+    overflow: hidden;
   }
 
   .img-wrapper{
