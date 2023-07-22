@@ -73,7 +73,7 @@ html {
   transition: all 0.2s;
 }
 
-.hamburger-menu:hover span{
+.change .hamburger-menu:hover span{
   opacity: 1;
   visibility: visible;
 }
