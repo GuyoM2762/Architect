@@ -383,3 +383,7 @@ html {
   object-fit: cover;
   opacity: 0.8;
 }
+
+.team{
+  display: flex;
+}
