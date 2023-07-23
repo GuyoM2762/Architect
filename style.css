@@ -420,6 +420,11 @@ html {
   object-fit: cover;
   opacity: .8;
   border-radius: 0.5rem;
+  transition: opacity 0.3s;
+}
+
+.card:hover .card-img-wrapper img{
+  opacity: .5;
 }
 
 .card-info {
