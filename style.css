@@ -449,5 +449,7 @@ html {
   font-family: 'Baloo Da 2', serif;
   font-size: 1.4rem;
   line-height: 1.6rem;
-  
+  font-weight: 300;
+  color: #eee;
+
 }
