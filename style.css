@@ -460,4 +460,9 @@ html {
   width: 10rem;
   height: 3rem;
   background-color: #c29525;
+  border: none;
+  font-family: 'Baloo Da 2', serif;
+  font-size: 1.4rem;
+  line-height: 1.5rem;
+
 }
