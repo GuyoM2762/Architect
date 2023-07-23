@@ -420,3 +420,7 @@ html {
   opacity: .8;
   border-radius: 0.5rem;
 }
+
+.card-info{
+  position: absolute;
+}
