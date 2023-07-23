@@ -335,6 +335,11 @@ html {
   grid-column: 12/15;
   grid-row: 3/5;
 }
+
+.service:nth-child(6){
+  grid-column: 11/14;
+  grid-row: 5/-1;
+}
 .about-us-img-wrapper img{
   width: 50rem;
 }
