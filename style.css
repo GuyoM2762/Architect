@@ -455,3 +455,9 @@ html {
   margin-bottom: 2rem;
 
 }
+
+.card-info button{
+  width: 10rem;
+  height: 3rem;
+  background-color: #c29525;
+}
