@@ -310,3 +310,7 @@ html {
   grid-template-rows: repeat(6, 6rem);
   grid-row-gap: 4rem;
 }
+
+.about-us-img-wrapper img{
+  width: 50rem;
+}
