@@ -492,3 +492,10 @@ html {
   justify-content: center;
   align-items: center;
 }
+
+.contact-wrapper {
+  width: 60%;
+  height: 75rem;
+  display: flex;
+  box-shadow: 0 3rem 7rem rgba(0, 0, 0, 0.5);
+}
