@@ -176,7 +176,7 @@ html {
   box-shadow: 0 0.3rem .5rem rgba(0, 0, 0, 0.4);
   cursor: pointer;
   opacity: 0;
-  animation: moveBanner 1s .9s;
+  animation: moveBanner 1s .9s forwards;
 
 
 
