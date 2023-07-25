@@ -618,6 +618,7 @@ html {
 .footer-content{
   width: 60%;
   display: flex;
+  justify-content: space-between;
 }
 
  
