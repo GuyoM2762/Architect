@@ -645,6 +645,11 @@ html {
   bottom: 5rem;
   width: 4.5rem;
   height: 4.5rem;
+  background-color: #e2b646;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
 }
  
 
