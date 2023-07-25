@@ -572,3 +572,7 @@ html {
   pointer-events: none;
   transition: all 0.3s;
 }
+
+.input-label {
+  bottom: 3rem;
+}
