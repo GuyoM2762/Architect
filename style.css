@@ -536,3 +536,7 @@ html {
 .input-group {
   position: relative;
 }
+
+.field{
+  width: 45rem
+}
