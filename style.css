@@ -673,8 +673,12 @@ html {
 
   .footer-content{
     width: 80%;
-    
+
   }
+}
+
+@media(max-width:1400px){
+  
 }
  
 
