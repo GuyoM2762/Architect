@@ -666,6 +666,8 @@ html {
   }
 
   .contact-wrapper{
+    width: 80%;
+    height: 65rem;
     
   }
 }
