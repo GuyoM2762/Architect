@@ -650,6 +650,9 @@ html {
   justify-content: center;
   align-items: center;
   font-size: 2rem;
+  color: #eee;
+  box-shadow:0 0.1rem .6rem rgba(0, 0, 0, 0.2) ;
+  border-radius: 0.3rem;
 }
  
 
