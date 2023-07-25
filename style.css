@@ -542,4 +542,6 @@ html {
   background-color: transparent;
   border: none;
   border-bottom: 0.2rem dashed #636363;
+  margin: 3rem 0;
+  padding: 1rem 1rem 1rem 0;
 }
