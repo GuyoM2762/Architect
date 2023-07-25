@@ -615,6 +615,11 @@ html {
   align-items: center;
 }
 
+.footer-content{
+  width: 60%;
+  display: flex;
+}
+
  
 
 
