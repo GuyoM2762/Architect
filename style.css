@@ -656,7 +656,18 @@ html {
 }
 
 @media (max-width :1500px){
-  
+  .about-us-img-wrapper{
+    grid-row: 3/-1;
+
+  }
+
+  .card{
+    width: 34rem;
+  }
+
+  .contact-wrapper{
+    
+  }
 }
  
 
