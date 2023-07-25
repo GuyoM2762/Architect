@@ -538,5 +538,6 @@ html {
 }
 
 .field{
-  width: 45rem
+  width: 45rem;
+  background-color: transparent;
 }
